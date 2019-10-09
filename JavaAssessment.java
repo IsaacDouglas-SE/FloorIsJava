@@ -12,7 +12,7 @@ Explore
 
 
 Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request. 
+Using the Hello World guide, youâ€™ll start a branch, write comments, and open a pull request. 
 Read the guide 
 
 Watch 
@@ -22,7 +22,7 @@ Unstar
 Fork 
 0 
 
-LexiHH/QA-Java-Assessment 
+IsaacDouglas-SE/FloorIsJava
 Code 
 Issues 0 
 Pull requests 0 
@@ -31,10 +31,10 @@ Wiki
 Security 
 Insights 
 Branch: master 
-QA-Java-Assessment/Assessment.java 
+FloorIsJava/JavaAssessment.java 
 Find file 
 Copy path 
- LexiHH Updated Java Assessments 280819 
+ IsaacDouglas-SE Updated Java Assessment 280819 
 bb7e28a on 28 Aug 
 1 contributor 
 executable file 230 lines (204 sloc) 8.25 KB 
@@ -501,7 +501,7 @@ public class Assessment {
 
 }
 
-© 2019 GitHub, Inc.
+Â© 2019 GitHub, Inc.
 Terms
 Privacy
 Security
