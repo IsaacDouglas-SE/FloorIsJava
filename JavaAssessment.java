@@ -1,50 +1,6 @@
-Skip to content
-
-
-  
-Pull requests 
-Issues 
-Marketplace 
-Explore 
-
-
- 
-
-
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request. 
-Read the guide 
-
-Watch 
-1 
-Unstar 
-1 
-Fork 
-0 
-
 IsaacDouglas-SE/FloorIsJava
-Code 
-Issues 0 
-Pull requests 0 
-Projects 0 
-Wiki 
-Security 
-Insights 
-Branch: master 
-FloorIsJava/JavaAssessment.java 
-Find file 
-Copy path 
- IsaacDouglas-SE Updated Java Assessment 280819 
-bb7e28a on 28 Aug 
-1 contributor 
-executable file 230 lines (204 sloc) 8.25 KB 
-Raw
-Blame
-History
-
 
 package com.qa.javaAssessment;
-
 
 
 public class Assessment {
@@ -500,18 +456,3 @@ public class Assessment {
 	}
 
 }
-
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
